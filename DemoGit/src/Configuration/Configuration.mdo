@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dddf60b8-7de0-46e0-8ed4-c64c35c53a94">
+  <name>Конфігурація</name>
+  <comment></comment>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="c8aee693-8055-447e-82ab-eb550b49a4ce"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="1f6c5d92-919a-41a3-9948-1df02a2ff3df"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="73294ab2-dcf4-48a4-b19d-0fe882527224"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c13b9436-79a0-403b-af28-e910f2c05be9"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="1e486456-7660-4017-8aee-2fa8957f3d02"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="0d7d0b0f-c6e5-431d-9716-91cb893c3f9b"/>
+  <namePrefix></namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.10</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor></vendor>
+  <version></version>
+  <updateCatalogAddress></updateCatalogAddress>
+  <defaultLanguage>Language.Українська</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="befcd516-877b-49a6-9d5d-88c3923480fd">
+    <name>Українська</name>
+    <synonym>
+      <key>uk</key>
+      <value>Українська</value>
+    </synonym>
+    <comment></comment>
+    <languageCode>uk</languageCode>
+  </languages>
+  <constants>Constant.Константа</constants>
+</mdclass:Configuration>
